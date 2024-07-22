@@ -1,10 +1,14 @@
 ## Olá, eu sou Leonardo! 👋
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- ⚙️ Ask me about ...
+
 
 <div>
-  <a href-"https://github.com/leoneto00710">
-  <img height="180em" src-"https://github-readme-stats.vercel.app/api?username-leoneto00710&show_icons-true&theme=dracula&include_all_commits-true&count_private=true"/>
-  <img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username=leoneto00710&layout=compact&langs_count-16&theme-dracula"/>
+  <a href="https://github.com/leoneto00710">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoneto00710&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneto00710&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
 </div>
+
 
 <!--
 **leoneto00710/leoneto00710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
