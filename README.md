@@ -1,8 +1,7 @@
 ## Olá, eu sou Leonardo! 👋
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🔎 Ask me about ...
+#### 🔎 Estudante de Análise e Desenvolvimento de Sistemas, com grande interesse por criar novas soluções e uma constante vontade de explorar e aprender mais no universo da tecnologia.
 
-
+## ⭐ GitHub Stats
 <div>
   <a href="https://github.com/leoneto00710">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leoneto00710&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
