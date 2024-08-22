@@ -10,7 +10,7 @@
 
 ## 🥷 Skills
 
-### ⚙️ - Atualmente estudando:
+### ⚙️ Atualmente estudando:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 />
 </div>
 
-### ⚙️ - Já tive contato:
+### ⚙️ Já tive contato:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=40 />
